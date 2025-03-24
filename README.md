@@ -15,3 +15,7 @@ $ docker-compose up
 ```
 
 Then `localhost:8081/depict/broken` breaks and `localhost:8081/depict/forwarded` works.
+
+## References
+
+* https://docs.spring.io/spring-boot/how-to/webserver.html#howto.webserver.use-behind-a-proxy-server
